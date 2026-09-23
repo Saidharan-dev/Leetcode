@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0704-binary-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saidharan-dev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
