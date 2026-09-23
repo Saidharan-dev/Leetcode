@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Saidharan-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saidharan-dev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -58,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saidharan-dev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
