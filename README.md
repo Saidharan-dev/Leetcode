@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Saidharan-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saidharan-dev/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
