@@ -3,7 +3,7 @@ import java.util.Deque;
 
 class Solution {
     public int maxDepth(String s) {
-        Deque<Character> stack = new ArrayDeque<>();
+        
         int left=0;
         int right=0;
         int max=0;
