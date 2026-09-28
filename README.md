@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Saidharan-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Saidharan-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saidharan-dev/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Saidharan-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Saidharan-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
