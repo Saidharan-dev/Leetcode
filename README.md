@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Saidharan-dev/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saidharan-dev/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saidharan-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Saidharan-dev/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0079-word-search/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 <!---LeetCode Topics End-->
