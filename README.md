@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Saidharan-dev/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saidharan-dev/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saidharan-dev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Saidharan-dev/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saidharan-dev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -147,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Saidharan-dev/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saidharan-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
