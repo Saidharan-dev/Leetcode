@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saidharan-dev/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Saidharan-dev/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
