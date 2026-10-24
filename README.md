@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saidharan-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/Saidharan-dev/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Saidharan-dev/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saidharan-dev/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saidharan-dev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Saidharan-dev/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Saidharan-dev/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Saidharan-dev/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Saidharan-dev/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saidharan-dev/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Saidharan-dev/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
