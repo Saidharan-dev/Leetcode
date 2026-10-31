@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Saidharan-dev/Leetcode/tree/master/0070-climbing-stairs) |
+| [3665-twisted-mirror-path-count](https://github.com/Saidharan-dev/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saidharan-dev/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saidharan-dev/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Saidharan-dev/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Saidharan-dev/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saidharan-dev/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saidharan-dev/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saidharan-dev/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Saidharan-dev/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
