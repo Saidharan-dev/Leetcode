@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saidharan-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/Saidharan-dev/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saidharan-dev/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Saidharan-dev/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saidharan-dev/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saidharan-dev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0189-rotate-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saidharan-dev/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0704-binary-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saidharan-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
