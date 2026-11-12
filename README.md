@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saidharan-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Saidharan-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Saidharan-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saidharan-dev/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Saidharan-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Saidharan-dev/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Saidharan-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0079-word-search](https://github.com/Saidharan-dev/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Saidharan-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0856-score-of-parentheses](https://github.com/Saidharan-dev/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saidharan-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Saidharan-dev/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saidharan-dev/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
